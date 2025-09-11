@@ -3,7 +3,7 @@
 const max=prompt("Enter your maximum number");
 const randomnum=Math.floor(Math.random()*max)+1;
 
-let guess=prompt("guess your number")
+let guess=prompt(" guess the number")
 
 while(true){
     if(guess=="quit"){
@@ -20,4 +20,5 @@ while(true){
     }
 
     
+
 }
