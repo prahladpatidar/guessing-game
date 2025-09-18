@@ -1,5 +1,5 @@
 // Jai shree Ram 
-
+// jai shree ram
 const max=prompt("Enter your maximum number");
 const randomnum=Math.floor(Math.random()*max)+1;
 
@@ -22,3 +22,4 @@ while(true){
     
 
 }
+
